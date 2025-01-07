@@ -1,0 +1,4 @@
+import os
+
+WHATSAPP_TOKEN = os.environ.get("WHATSAPP_TOKEN")
+WHATSAPP_BUSINESS_ID = os.environ.get("WHATSAPP_BUSINESS_ID")
